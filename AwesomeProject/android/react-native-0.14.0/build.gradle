@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('react-native-0.14.0.aar'))

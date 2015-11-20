@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('android-jsc-r174650.aar'))
